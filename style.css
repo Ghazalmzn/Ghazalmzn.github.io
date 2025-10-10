@@ -7,7 +7,7 @@ body {
     padding: 0 20px;
      font-size: 20px;
 }
-/* Animation pour le mot "Bienvenue" */
+/* Animation definition */
 @keyframes deplacementBienvenue {
     0% {
         transform: translateX(-100%);
@@ -18,14 +18,15 @@ body {
     100% {
         transform: translateX(0%);
     }
-    }
-    
-    /* Apply the animation to the Bienvenue */
-.entete h1 {
+}
+
+/* Apply animation to the <h1> element */
+h1 {
     font-size: 28px;
-    margin: 0;
+    margin-top: 30px;
     color: #2c3e50;
     animation: deplacementBienvenue 6s ease-in-out;
+    text-align: center; /* Optional: center it horizontally */
 }
   .photo-entete {
     width: 60px;
