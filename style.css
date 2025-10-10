@@ -27,10 +27,10 @@ body {
     color: #2c3e50;
     animation: deplacementBienvenue 6s ease-in-out;
 }
-   /* Conteneur de l'entête */
-.entete {
-    display: flex;
-    align-items: center;        /* Aligne verticalement l’image et le texte */
-    gap: 15px;                  /* Espace entre l’image et le texte */
-    margin-top: 20px;
+  .photo-entete {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;         /* makes it round */
+    border: 2px solid white;    /* optional border */
+    object-fit: cover;          /* keeps the image centered and cropped */
 }
