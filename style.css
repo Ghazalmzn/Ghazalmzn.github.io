@@ -5,4 +5,16 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0 20px;
+     font-size: 20px;
 }
+/* Animation pour le mot "Bienvenue" */
+@keyframes deplacementBienvenue {
+    0% {
+        transform: translateX(-100%);
+    }
+    50% {
+        transform: translateX(50%);
+    }
+    100% {
+        transform: translateX(0%);
+    }
