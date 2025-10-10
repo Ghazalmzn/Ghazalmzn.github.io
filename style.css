@@ -18,6 +18,8 @@ body {
     100% {
         transform: translateX(0%);
     }
+    }
+    
     /* Apply the animation to the Bienvenue */
 .entete h1 {
     font-size: 28px;
