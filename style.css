@@ -28,10 +28,11 @@ h1 {
     animation: deplacementBienvenue 6s ease-in-out;
     text-align: center; /* Optional: center it horizontally */
 }
-  .photo-entete {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;         /* makes it round */
-    border: 2px solid white;    /* optional border */
-    object-fit: cover;          /* keeps the image centered and cropped */
+  .photo-profil {
+    width: 150px;            /* or 100px, 200px — up to you */
+    height: auto;            /* keeps the correct aspect ratio */
+    border-radius: 10px;     /* optional: rounds the corners */
+    display: block;          /* optional: makes image behave like a block */
+    margin: 20px auto;       /* optional: centers the image */
+    object-fit: cover;       /* crops the image to fit nicely if you add fixed height */
 }
