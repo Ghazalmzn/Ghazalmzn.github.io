@@ -1,0 +1,8 @@
+/* Style général de la page */
+body {
+    background-color: #EDAFB8; 
+    color: #333333; /* gris foncé pour le texte */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0 20px;
+}
