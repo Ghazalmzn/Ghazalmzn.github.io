@@ -18,3 +18,10 @@ body {
     100% {
         transform: translateX(0%);
     }
+   /* Conteneur de l'entête */
+.entete {
+    display: flex;
+    align-items: center;        /* Aligne verticalement l’image et le texte */
+    gap: 15px;                  /* Espace entre l’image et le texte */
+    margin-top: 20px;
+}
