@@ -44,11 +44,12 @@ h3 {
 
 .slogan-intro {
     font-family: 'Arial', sans-serif;
-    color: #4b0082;
+    color: #004c99;
     font-size: 1.2em;
     font-weight: bold;
     text-align: left;
     margin-bottom: 20px;
+    font-style: italic;
 }
 
 /* Animation definition */
