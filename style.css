@@ -41,6 +41,16 @@ h3 {
     margin-top: 40px; 
     margin-bottom: 20px;
 }
+
+.slogan-intro {
+    font-family: 'Arial', sans-serif;
+    color: #4b0082;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
 /* Animation definition */
 @keyframes deplacementBienvenue {
     0% {
