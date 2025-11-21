@@ -9,7 +9,7 @@
 
 body {
     background-color: #f3d9b1;
-    color: #e26d5c;
+    color: #a44a3f;
     font-family: 'Georgia', serif;
     font-size: 17px;
     margin: 0;
@@ -18,7 +18,7 @@ body {
 }
 
 p {
-    color: #e26d5c; 
+    color: #a44a3f; 
     font-family: 'Georgia', serif; 
     font-size: 17px;
     margin-bottom: 20px;
@@ -68,7 +68,7 @@ h3 {
 .slogan-intro {
     font-family: 'Arial', sans-serif;
     color: #723d46;
-    font-size: 1.2em;
+    font-size: 1.6em;
     font-weight: bold;
     text-align: left;
     margin-bottom: 20px;
