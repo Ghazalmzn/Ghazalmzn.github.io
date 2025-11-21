@@ -1,12 +1,18 @@
-/* Style général de la page */
+
 body {
-    background-color: #f4e8eb; 
-    color: #333333; 
-    font-family: 'Arial', sans-serif;
+    background-color: #f4e8eb;
+    color: #444444;
+    font-family: 'Georgia', serif;
+    font-size: 17px;
     margin: 0;
     padding: 20px;
-    font-size: 20px;
     line-height: 1.6;
+}
+
+p {
+    font-family: 'Georgia', serif;
+    font-size: 17px;
+    margin-bottom: 20px;
 }
 
 .container {
