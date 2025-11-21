@@ -42,21 +42,21 @@ h1 {
 }
 
 h2 {
-color: #8b0000; 
+color: #adc178; 
     font-family: 'Georgia', serif; 
     font-size: 1.8em; 
     text-align: center; 
-    border-bottom: 2px solid #8b0000; 
+    border-bottom: 2px solid #adc178; 
     padding-bottom: 10px; 
     margin-top: 40px; 
     margin-bottom: 20px;
 }
 
 h3 {
-    color: #8b0000; 
+    color: #adc178; 
     font-family: 'Georgia', serif; 
     text-align: center;
-    border-bottom: 2px solid #8b0000; 
+    border-bottom: 2px solid #adc178; 
     padding-bottom: 10px; 
 
     font-size: 1.8em; 
