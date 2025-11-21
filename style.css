@@ -18,7 +18,8 @@ body {
 }
 
 p {
-    font-family: 'Georgia', serif;
+    color: #444444; 
+    font-family: 'Georgia', serif; 
     font-size: 17px;
     margin-bottom: 20px;
 }
