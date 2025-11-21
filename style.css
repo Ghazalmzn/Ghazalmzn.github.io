@@ -37,7 +37,7 @@ h1 {
     width: 140px;
     height: 140px;
     border-radius: 70%;
-    border: 2px solid grey;
+    border: 2px #dde5b6;
     object-fit: cover;
 }
 
