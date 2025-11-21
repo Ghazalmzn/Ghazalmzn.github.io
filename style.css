@@ -19,10 +19,14 @@ body {
 }
 
 h2 {
-color: #4b0082;
-    font-family: 'Georgia', serif; /* Même police que le H1 pour la cohérence */
-    font-size: 1.8em; /* Taille moyenne (équivaut à environ 28px) */
-    margin-top: 30px;
+color: #8b0000; 
+    font-family: 'Georgia', serif; 
+    font-size: 1.8em; 
+    text-align: center; 
+    border-bottom: 2px solid #8b0000; 
+    padding-bottom: 10px; 
+    margin-top: 40px; 
+    margin-bottom: 20px;
 }
 
 h3 {
