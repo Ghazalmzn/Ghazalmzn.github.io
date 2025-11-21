@@ -19,8 +19,9 @@ body {
 }
 
 h2 {
-    color: #588157; 
-    font-size: 24px;
+color: #4b0082;
+    font-family: 'Georgia', serif; /* Même police que le H1 pour la cohérence */
+    font-size: 1.8em; /* Taille moyenne (équivaut à environ 28px) */
     margin-top: 30px;
 }
 
