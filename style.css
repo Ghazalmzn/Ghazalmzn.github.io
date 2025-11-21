@@ -8,8 +8,8 @@
 }
 
 body {
-    background-color: #faf9f9;
-    color: #a44a3f;
+    background-color: #f0ead2;
+    color: #6c584c;
     font-family: 'Georgia', serif;
     font-size: 17px;
     margin: 0;
@@ -18,17 +18,17 @@ body {
 }
 
 p {
-    color: #a44a3f; 
+    color: #6c584c; 
     font-family: 'Georgia', serif; 
     font-size: 17px;
     margin-bottom: 20px;
 }
 h1 {
     text-align: center;
-    color: #8b0000;
+    color: #a98467;
     font-family: 'Georgia', serif; 
     font-size: 2.5em; 
-    border-bottom: 2px solid #8b0000;
+    border-bottom: 2px solid #a98467;
     padding-bottom: 10px;
     animation: deplacementBienvenue 2s ease-in-out;
     text-align: center; 
